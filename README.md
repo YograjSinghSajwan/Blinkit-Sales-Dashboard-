@@ -33,4 +33,10 @@ Detailed outlet-type-wise sales and rating analysis
 
 Interactive filter panel for outlet location, outlet size, and item type
 
+
+**Screenshot and Demos**
+Screenshot : 
+Power BI Dasbhoard: 
+
+
 Clean and user-friendly dashboard layout for easy insights
