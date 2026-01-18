@@ -35,7 +35,7 @@ Interactive filter panel for outlet location, outlet size, and item type
 
 
 **Screenshot and Demos**
-Screenshot : 
+Screenshot : https://github.com/YograjSinghSajwan/Blinkit-Sales-Dashboard-/blob/main/Blinkit%20Dashboard.png
 Power BI Dasbhoard: 
 
 
